@@ -33,4 +33,3 @@ def gen_eratosthenes():
             elif(x == 4):
                 x += 1
         prime = x
-                
